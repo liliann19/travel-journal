@@ -1,0 +1,20 @@
+html, body {
+    margin: 0;
+    padding: 0;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+header {
+    height: 70px;
+    background-color: #f55a5a;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 8px;
+    color: white;
+}
+
+.globe {
+    width: 60px;
+
+}
