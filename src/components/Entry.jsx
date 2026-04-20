@@ -12,7 +12,7 @@ export default function Entry(props) {
             <div className="entry-content">
                 <div className="entry-location-row">
                     <img
-                        src="/marker.webp"
+                        src="marker.webp"
                         alt="Image of a map marker"
                         className="marker"
                     />
